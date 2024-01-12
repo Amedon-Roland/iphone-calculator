@@ -6,4 +6,5 @@
  let firstValue = "";
  let isFirstValue = false;
  let secondValue = "";
- 
+ let isSecondValue = false;
+ let sign = "";
