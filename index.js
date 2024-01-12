@@ -8,3 +8,4 @@
  let secondValue = "";
  let isSecondValue = false;
  let sign = "";
+ let resultValue = 0;
